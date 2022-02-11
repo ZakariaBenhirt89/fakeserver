@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "run.js",
+  "dependencies": {
+   "json-server" : "^0.17.0"
+}, 
   "scripts": {
     "start": "node run.js",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,8 +19,5 @@
   "bugs": {
     "url": "https://github.com/ZakariaBenhirt89/fakeserver/issues"
   },
-  "homepage": "https://github.com/ZakariaBenhirt89/fakeserver#readme",
-  "devDependencies": {
-    "json-server": "^0.17.0"
-  }
+  "homepage": "https://github.com/ZakariaBenhirt89/fakeserver#readme"
 }
