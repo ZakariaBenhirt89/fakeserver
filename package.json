@@ -1,0 +1,23 @@
+{
+  "name": "fakeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "scripts": {
+    "start": "json-server --watch profile.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZakariaBenhirt89/fakeserver.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZakariaBenhirt89/fakeserver/issues"
+  },
+  "homepage": "https://github.com/ZakariaBenhirt89/fakeserver#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
